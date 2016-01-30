@@ -1,6 +1,6 @@
 # c11_utils
 ##コンパイル
-g++ -std=c++11 filename.cpp
+g++ -std=c++11 filename.cpp  
 ./a.out
 
 #day1
