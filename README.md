@@ -7,5 +7,5 @@
 * Range-based for loop(foreach)
 
 ##改善点
-push_backのInputの部分もっとうまく書けそう
+push_backのInputの部分もっとうまく書けそう  
 エラー処理も書かないとだめ
